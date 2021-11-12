@@ -1,0 +1,42 @@
+.summary {
+  width: 50%;
+  padding: 1rem 0;
+  margin: 0.5rem auto;
+}
+.summary h4 {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+.balance {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.summary-details {
+  margin-top: 1.6rem;
+  border-radius: 5px;
+  padding: 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.info p {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.amount {
+  font-size: 1.4rem !important;
+}
+.income .amount {
+  color: #44d144;
+}
+.expense .amount {
+  color: #e6354d;
+}

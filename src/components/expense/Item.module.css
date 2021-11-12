@@ -1,0 +1,19 @@
+.item {
+  background-color: #fff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+}
+.item p {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.item-income {
+  border-right: 4px solid #44d144;
+}
+.item-expense {
+  border-right: 4px solid #e6354d;
+}

@@ -1,0 +1,11 @@
+.label {
+  font-size: 1.2rem;
+  text-align: left;
+  width: 50%;
+  margin: 0.5rem auto;
+  padding: 1rem 0;
+  position: relative;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgb(158, 142, 142);
+  border-bottom-width: 50%;
+}
